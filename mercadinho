@@ -176,8 +176,8 @@
     <!-- RODAPÉ -->
     <footer class="bg-gray-800 text-white mt-16">
         <div class="container mx-auto px-6 py-8 text-center">
-            <p>&copy; 2025 Mercadinho da Gente. Todos os direitos reservados.</p>
-            <p class="mt-2 text-gray-400">Rua das Flores, 123 - Bairro Feliz | Contato: (62) 99999-8888</p>
+            <p>&copy; 2025 Little Mercadinho. Todos os direitos reservados.</p>
+            <p class="mt-2 text-gray-400">Little Rua, 001 - Little Bairro | Contato: (64) 4002-8922</p>
         </div>
     </footer>
 
